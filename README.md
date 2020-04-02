@@ -5,5 +5,5 @@ A simple Python script to extract contacts that obey a search string from a vCar
 Usage:
 
 ```bash
-./extract_contacts [FILE] [STRING]
+./extract_contacts.py [FILE] [STRING]
 ```
